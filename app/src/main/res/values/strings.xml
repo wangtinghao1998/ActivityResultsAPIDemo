@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActivityResultsAPIDemo</string>
+    <string name="btn_send">点击跳转到SecondActivity</string>
+    <string name="tv_back">收到SecondActivity回传的数据如下：</string>
+    <string name="tv_receive">收到MainActivity发送的数据如下：</string>
+    <string name="btn_back">点击跳转到MainActivity</string>
+</resources>
